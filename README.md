@@ -32,7 +32,7 @@ Two additional recommendations for further development are:
 
 A third improvement would be to add the function of filtering for a range of dates instead of a single date. 
 Another improvement to the filter would be to include options for if the user misspells the city or country name. The result could show the suggested data: 
-> "*'roswel'* was not found, here are some similar results: [shows data for *'roswell'*]" 
+> "*'roswel'* was not found; here are some similar results: [shows data for *'roswell'*]" 
 
 This would be similar to how Google.com functions for a search that has no 100% exact match.
 Another simple adjustment would be to add links for more information. For example, a separate link to World UFO Day, which would include the date, location, images, and details about the celebration. We can also link to more inforation about Dr. Ursula F. Olivier's research and the Leave Aliens Alone (LAA) community information.
