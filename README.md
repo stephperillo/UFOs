@@ -14,9 +14,10 @@ It has a table with all of the data for one to scroll through. Alternatively, on
 
 How to perform a search on UFO Finder:
 1. Scroll down until you see the Filter Search area on the left side of the page.
-2. Click on the desired input field(s). This will make the text cursor appear and begin to blink (|).
-3. Type the desired date or word (i.e. "ca" for State).
-4. Press Enter to activate the filter and display the results of the search.
+2. Click on the desired input field. This will make the text cursor appear and begin to blink (|).
+3. Type the desired date or word (i.e. "ca" for State). 
+4. Repeat Steps 2 and 3 to add filters.
+5. Press Enter to activate the filter and display the results of the search.
 
 ![ca.jpg](https://github.com/stephperillo/UFOs/blob/main/Resources/ca.jpg)
 
@@ -24,7 +25,7 @@ How to perform a search on UFO Finder:
 
 This webpage has a visual banner and it shows the data in a nice table, and best of all is the filter functionality, however as is, it does have  drawbacks.
 
-One drawback of this webpage is that it does not inherently include a way to add new data. The data currently on the webpage is from 1/1/2010 to 1/13/2010. If there is additional data on if the sighting reports were verified by how many people or only person, that could be helpful to add. If a viewer of this site has seen a UFO, they can quickly add their comments and data. We would also need to add a way for this system to be monitored so that users are not able to abuse the website to post irrelevant or inappropriate text. There would be a gap between the time any new data was entered and when it appears on the webpage so that all entries can be proofread by a human before going live.      
+One drawback of this webpage is that it does not inherently include a way to add new data. The data currently on the webpage is from 1/1/2010 to 1/13/2010. If there is additional data on if the sighting reports were verified by how many people or only person, that could be helpful to add. If a viewer of this site has seen a UFO, they can quickly submit their comments and data. We would also need to add a way for this system to be monitored so that users are not able to abuse the website to post irrelevant or inappropriate text. There would be a gap between the time any new data was entered and when it appears on the webpage so that all entries can be proofread by a human before going live.      
 
 Two additional recommendations for further development are:
 1. Add a way for new data to be added to a table.
